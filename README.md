@@ -1,2 +1,2 @@
 # gamedev
-https://github.com/TheActualZenald/gamedev/public
+https://theactualzenald.github.io/gamedev/public/
